@@ -1,0 +1,4 @@
+<?php
+
+$s_plugin_ImaticMediawiki_title = 'Customer Mediwiki';
+$s_plugin_ImaticMediawiki_main_menu_title = 'Wiki';
