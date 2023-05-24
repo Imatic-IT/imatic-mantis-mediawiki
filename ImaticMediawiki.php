@@ -22,7 +22,7 @@ class ImaticMediawikiPlugin extends MantisPlugin
         return [
             'menu_icon' => 'menu-icon fa fa-wikipedia-w',
             'icon_view_threshold' => EXTERN,
-            'id_projects_for_default_url' => array(0, 3),
+            'id_projects_for_default_url' => array(),
             'mediawiki_default_url' => 'https://dev.imatic.cz/imatic-it-docs/wiki/Dashboard',
             'domain' => 'https://dev.imatic.cz/',
             'last_url_segment' => '/wiki/',
