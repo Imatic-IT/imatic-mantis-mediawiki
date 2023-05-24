@@ -4,7 +4,7 @@ class ImaticMediawikiPlugin extends MantisPlugin
 {
     public function register(): void
     {
-        $this->name = 'Imatic Mediwiki';
+        $this->name = 'Imatic Mediawiki';
         $this->description = 'Mediawiki button menu left';
         $this->page = 'config_page';
         $this->version = '0.0.1';
